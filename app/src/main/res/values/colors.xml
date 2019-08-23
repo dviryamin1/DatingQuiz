@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!-- colors for button style-->
+    <color name="gradient_start_color">#4c84ff</color>
+    <!--colors for tab and screen-->
+    <color name="tab_indicator_color">#494949</color>
+    <!--colors for text-->
+    <color name="man_turn_color">#DCB3B3B3</color>
+    <color name="woman_turn_color">#DC202020</color>
+</resources>
